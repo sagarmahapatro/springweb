@@ -1,0 +1,6 @@
+https://github.com/flatlogic/angular-dashboard-seed
+http://startangular.com/
+https://github.com/start-angular/sb-admin-angular
+https://github.com/flatlogic/angular-material-dashboard
+https://github.com/angular-dashboard-framework/angular-dashboard-framework
+https://github.com/angular/angular-seed
