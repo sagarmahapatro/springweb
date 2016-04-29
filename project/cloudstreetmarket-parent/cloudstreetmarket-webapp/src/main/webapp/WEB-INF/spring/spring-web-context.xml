@@ -18,7 +18,7 @@
 	http://www.springframework.org/schema/util/spring-util-4.0.xsd">
 	
 	<mvc:annotation-driven></mvc:annotation-driven>
-	<context:component-scan base-package="edu.zipcloud.cloudstreetmarket.portal.*"></context:component-scan>
+	<context:component-scan base-package="edu.zipcloud.cloudstreetmarket.portal"></context:component-scan>
 	<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView" />
 		<property name="prefix" value="/WEB-INF/jsp/" />
