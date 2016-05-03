@@ -4,3 +4,5 @@ https://github.com/start-angular/sb-admin-angular
 https://github.com/flatlogic/angular-material-dashboard
 https://github.com/angular-dashboard-framework/angular-dashboard-framework
 https://github.com/angular/angular-seed
+https://github.com/puikinsh/Bootstrap-Admin-Template
+https://github.com/puikinsh/gentelella

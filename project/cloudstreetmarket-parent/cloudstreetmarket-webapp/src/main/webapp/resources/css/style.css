@@ -1,0 +1,19 @@
+@CHARSET "utf-8";
+
+.header{
+	background-color: gray;
+}
+
+.footer{
+	background-color: gray;
+}
+
+.slidBar{
+	background-color: orange;
+	height: 600px;
+}
+
+.content{
+	background-color: blue;
+	height: 600px;
+}
